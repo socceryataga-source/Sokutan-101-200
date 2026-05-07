@@ -657,7 +657,9 @@ const WORD_DATA = [
     "answer": "〜かどうか",
     "options": [
       "〜にもかかわらず",
-      "〜かどうか"
+      "〜かどうか",
+      "もし〜なら",
+      "天気"
     ],
     "example": "I don’t know whether he will come today.",
     "translation": "彼が今日来るかどうかわからない。"
@@ -1215,7 +1217,9 @@ const WORD_DATA = [
     "answer": "〜にもかかわらず",
     "options": [
       "〜かどうか",
-      "〜にもかかわらず"
+      "〜にもかかわらず",
+      "しかしながら",
+      "〜なので"
     ],
     "example": "Despite the cold weather, he was walking around in a T-shirt.",
     "translation": "寒い天候にもかかわらず，彼はTシャツで歩き回っていた。"
